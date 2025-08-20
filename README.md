@@ -15,7 +15,7 @@
 ###
 
 <h3 align="left">👩‍💻  I'm Richter Cheniago</h3>
-<p align="left">- 🔭 I’m working on Game Development<br>- 📚 I'm currently learning Godot, Blender, and etc.<br>- ⚡ In my free time I learn new skills, game, and read manga</p>
+<p align="left">- 🔭 Aspiring game developer<br>- 📚 I'm currently learning Unity, Blender, and etc.<br>- ⚡ In my free time I learn new skills, game, and read manga</p>
 
 ###
 
