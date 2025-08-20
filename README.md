@@ -16,8 +16,6 @@
 
 <h3 align="left">👩‍💻  I'm Richter Cheniago</h3>
 
-###
-
 <p align="left">- 🔭 I’m working on Game Development<br>- 📚 I'm currently learning Godot, Blender, and etc.<br>- ⚡ In my free time I learn new skills, game, and read manga</p>
 
 ###
@@ -26,6 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/richter cheniago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richter cheniago" height="30" width="40" /></a>
 <a href="https://instagram.com/@rchtr.chn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rchtr.chn" height="30" width="40" /></a>
+<a href="https://rchtr-chn.itch.io/" target="blank"><img align="center" src="https://static.itch.io/images/itchio-textless-black.svg" alt="rchtr-chn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
