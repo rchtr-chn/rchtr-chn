@@ -15,14 +15,14 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/richter-cheniago-42b1b828a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richter cheniago" height="40" width="40" /> </a>
 <a href="https://www.instagram.com/rchtr.chn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rchtr.chn" height="40" width="40" /> </a>
 <a href="https://rchtr-chn.itch.io/" target="blank"><img align="center" src="https://cdn2.steamgriddb.com/icon_thumb/a72437afb97803a6acb5420ef8b8a90f.png" alt="rchtr-chn" height="40" width="40" /> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="blender" width="40" height="40"/> </a> 
   <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://www.rw-designer.com/icon-image/22556-64x64x4.png" alt="aseprite" width="40" height="40"/> </a> 
