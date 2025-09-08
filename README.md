@@ -1,21 +1,9 @@
-<div align="center">
-  <img height="250" src="https://media1.tenor.com/m/YjyN4su14BkAAAAd/persona-futaba.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rchtr-chn.rchtr-chn"  />
-</div>
-
-###
-
 <h1 align="left">Hello, World! 👋</h1>
 
 ###
 
 <h3 align="left">👩‍💻  I'm Richter Cheniago</h3>
-<p align="left">- 🔭 Aspiring game developer<br>- 📚 I'm currently learning Unity, Blender, and etc.<br>- ⚡ In my free time I learn new skills, game, and read manga</p>
+<p align="left">- 🔭 Aspiring game developer<br>- 📚 Mainly focusing on game programming<br>- ⚡ Pixel artist as secondary role</p>
 
 ###
 
