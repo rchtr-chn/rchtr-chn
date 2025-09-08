@@ -7,6 +7,14 @@
 
 ###
 
+<h1>Recent Works:</h1>
+
+|Rat Gambler|
+|-----------|
+|Gloomy card game where the player must take a risk by wager more cookies or invest on more powerful cards to build a stronger deck and free themselves from debt.|
+
+###
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/richter-cheniago-42b1b828a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richter cheniago" height="40" width="40" /> </a>
