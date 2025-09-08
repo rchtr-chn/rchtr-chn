@@ -13,6 +13,8 @@
 |-----------|
 |Gloomy card game where the player must take a risk by wagering more cookies and invest on more powerful cards to build a stronger deck and free themselves from debt with the rat mafia.|
 |[![Button Icon]][Link]|
+[Link]: # 'Link with example title.'
+[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
 
 ###
 
