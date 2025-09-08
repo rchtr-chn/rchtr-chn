@@ -11,7 +11,7 @@
 
 |Rat Gambler|
 |-----------|
-|Gloomy card game where the player must take a risk by wager more cookies or invest on more powerful cards to build a stronger deck and free themselves from debt.|
+|Gloomy card game where the player must take a risk by wagering more cookies and invest on more powerful cards to build a stronger deck and free themselves from debt. Each round you have to draw a card, however if your points exceed 21, you will be punished!|
 
 ###
 
