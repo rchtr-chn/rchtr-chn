@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left">👩‍💻  I'm Richter Cheniago</h3>
-<p align="left">- 🔭 Aspiring game developer<br>- 📚 Mainly focusing on game programming<br>- ⚡ Pixel artist as secondary role</p>
+<p align="left">- 🔭 Aspiring game developer<br>- 📚 Mainly focusing on game programming<br>- ⚡ Pixel artist as secondary role (only when necessary)</p>
 
 ###
 
