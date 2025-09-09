@@ -5,6 +5,8 @@
 <h3 align="left">👩‍💻  I'm Richter Cheniago</h3>
 <p align="left">- 🔭 Aspiring game developer<br>- 📚 Mainly focusing on game programming<br>- ⚡ Pixel artist as secondary role (only when necessary)</p>
 
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rchtr-chn&show_icons=true&count_private=true&theme=dark" width="350"></a>
+
 ###
 
 <h1>Portfolio:</h1>
