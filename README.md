@@ -12,9 +12,9 @@
 <h1>Portfolio:</h1>
 
 | Rat Gambler | Overcoded |
-| ----------- | --------- |
+| :-----------: | :---------: |
 | Gloomy card game where the player must take a risk by wagering more cookies and invest on more powerful cards to build a stronger deck and free themselves from debt with the rat mafia. | You play as a stressed out and sleep deprived game developer trying to bugfix your game, eyes fixated on the screen, fingers locked in position to execute every single line of code to ensure the game runs smoothly. However, problems start to appear.. Haunting the player the longer they try to survive.|
-
+| [![Read More](https://img.shields.io/badge/read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Rat-Gambler)
 ###
 
 <h1 align="left">Languages and Tools:</h1>
