@@ -9,9 +9,9 @@
 
 <h1>Portfolio:</h1>
 
-| Rat Gambler |
-| ----------- |
-| Gloomy card game where the player must take a risk by wagering more cookies and invest on more powerful cards to build a stronger deck and free themselves from debt with the rat mafia. |
+| Rat Gambler | Overcoded |
+| ----------- | --------- |
+| Gloomy card game where the player must take a risk by wagering more cookies and invest on more powerful cards to build a stronger deck and free themselves from debt with the rat mafia. | You play as a stressed out and sleep deprived game developer trying to bugfix your game, eyes fixated on the screen, fingers locked in position to execute every single line of code to ensure the game runs smoothly. However, problems start to appear.. Haunting the player the longer they try to survive.|
 
 ###
 
