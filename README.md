@@ -17,6 +17,11 @@
 | [![Read More](https://img.shields.io/badge/read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Rat-Gambler) | [![Read More](https://img.shields.io/badge/read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Overcoded)
 ###
 
+| MulungPreneur | Lies In The Unknown |
+| :-----------: | :-----------------: |
+| Educational game where you play as a homeless man, picking up trash, do favors for your neighbors, and build a trash recycling empire | Sitting alone in his room, eyes lost in depression — directionless, abandoned, without purpose. Should his life come to an end? For a moment, his mind feels dizzy, when he open his eyes, it got him puzzled about where he is. Then, a mysterious figure appears — one that reminds him of… THE TRAUMA… Will he uncover what’s been lies? |
+| [![Read More](https://img.shields.io/badge/read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/wi1wil/MulungPreneur) | [![Read More](https://img.shields.io/badge/read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Lies-In-The-Unknown)
+
 <h1 align="left">Languages and Tools:</h1>
 <p align="left"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="blender" width="40" height="40"/> </a> 
