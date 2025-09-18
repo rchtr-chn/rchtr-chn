@@ -9,7 +9,7 @@
 
 ###
 
-<h1>Portfolio:</h1>
+<h1>Projects</h1>
 
 | Rat Gambler | Overcoded |
 | :-----------: | :---------: |
