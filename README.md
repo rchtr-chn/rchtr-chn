@@ -16,13 +16,13 @@
 | Rat Gambler | Overcoded |
 | :-----------: | :---------: |
 | Gloomy card game where the player must take a risk by wagering more cookies and invest on more powerful cards to build a stronger deck and free themselves from debt with the rat mafia. | You play as a stressed out and sleep deprived game developer trying to bugfix your game, eyes fixated on the screen, fingers locked in position to execute every single line of code to ensure the game runs smoothly. However, problems start to appear.. Haunting the player the longer they try to survive.|
-| [![Read More](https://img.shields.io/badge/read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Rat-Gambler) | [![Read More](https://img.shields.io/badge/read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Overcoded)
+| [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=https://icons8.com/icon/zfuVDK4SdKFq/itch-io)](https://rchtr-chn.itch.io/rat-gambler) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Rat-Gambler) | [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Overcoded)
 ###
 
 | MulungPreneur | Lies In The Unknown |
 | :-----------: | :-----------------: |
 | Educational game where you play as a homeless man, picking up trash, do favors for your neighbors, and build a trash recycling empire! | Sitting alone in his room, eyes lost in depression — directionless, abandoned, without purpose. Should his life come to an end? For a moment, his mind feels dizzy, when he open his eyes, it got him puzzled about where he is. Then, a mysterious figure appears — one that reminds him of… THE TRAUMA… Will he uncover what’s been lies? |
-| [![Read More](https://img.shields.io/badge/read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/wi1wil/MulungPreneur) | [![Read More](https://img.shields.io/badge/read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Lies-In-The-Unknown)
+| [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/wi1wil/MulungPreneur) | [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Lies-In-The-Unknown)
 
 ###
 
