@@ -44,8 +44,8 @@
 ###
 
 <h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://www.linkedin.com/in/richter-cheniago-42b1b828a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richter cheniago" height="40" width="40" /> </a>
-<a href="https://www.instagram.com/rchtr.chn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rchtr.chn" height="40" width="40" /> </a>
-<a href="https://rchtr-chn.itch.io/" target="blank"><img align="center" src="https://cdn2.steamgriddb.com/icon_thumb/a72437afb97803a6acb5420ef8b8a90f.png" alt="rchtr-chn" height="40" width="40" /> </a>
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Richter_Cheniago-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/richter-cheniago-42b1b828a/) <br/>
+[![Instagram](https://img.shields.io/badge/rchtr.chn-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rchtr.chn/) <br/>
+[![Itch.io](https://img.shields.io/badge/rchtr--chn-fa5c5c.svg?logo=itch.io&logoColor=white)](https://rchtr-chn.itch.io/) <br/>
 </p>
