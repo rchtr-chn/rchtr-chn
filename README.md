@@ -13,46 +13,13 @@
 
 <h1>Projects</h1>
 
-<table style="width:100%; table-layout:fixed; border-collapse:collapse; text-align:center;">
-  <tr>
-    <th style="width:50%;">Rat Gambler</th>
-    <th style="width:50%;">Overcoded</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.itch.zone/aW1nLzIyOTY5ODIzLnBuZw==/315x250%23c/aGPzYl.png" alt="rat-gambler-preview" style="max-width:100%; height:auto;" />
-    </td>
-    <td>
-      <img src="https://img.itch.zone/aW1nLzIwMDE3MzQ5LnBuZw==/315x250%23c/h3n4dy.png" alt="overcoded-preview" style="max-width:100%; height:auto;" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:justify; padding:10px;">
-      Risky card game where the player must take a risk by wagering more cookies and invest on more powerful cards to build a stronger deck and free themselves from debt with the rat mafia.
-    </td>
-    <td style="text-align:justify; padding:10px;">
-      You play as a stressed out and sleep deprived game developer trying to bugfix your game, eyes fixated on the screen, fingers locked in position to execute every single line of code to ensure the game runs smoothly. However, problems start to appear.. Haunting the player the longer they try to survive.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://rchtr-chn.itch.io/rat-gambler">
-        <img src="https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play Rat Gambler" />
-      </a>
-      <a href="https://github.com/rchtr-chn/Rat-Gambler">
-        <img src="https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge" alt="Read More Rat Gambler" />
-      </a>
-    </td>
-    <td>
-      <a href="https://rchtr-chn.itch.io/overcoded">
-        <img src="https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play Overcoded" />
-      </a>
-      <a href="https://github.com/rchtr-chn/Overcoded">
-        <img src="https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge" alt="Read More Overcoded" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+| Rat Gambler | Overcoded |
+| :-----------: | :---------: |
+|  <img src="https://img.itch.zone/aW1nLzIyOTY5ODIzLnBuZw==/315x250%23c/aGPzYl.png" alt="rat-gambler-preview" /> | <img src="https://img.itch.zone/aW1nLzIwMDE3MzQ5LnBuZw==/315x250%23c/h3n4dy.png" alt="overcoded-preview" /> |
+| Risky card game where the player must take a risk by wagering more cookies and invest on more powerful cards to build a stronger deck and free themselves from debt with the rat mafia. | You play as a stressed out and sleep deprived game developer trying to bugfix your game, eyes fixated on the screen, fingers locked in position to execute every single line of code to ensure the game runs smoothly. However, problems start to appear.. Haunting the player the longer they try to survive.|
+| [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://rchtr-chn.itch.io/rat-gambler) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Rat-Gambler) | [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://rchtr-chn.itch.io/overcoded) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Overcoded) |
+
 
 ###
 
