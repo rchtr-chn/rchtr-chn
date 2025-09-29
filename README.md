@@ -23,6 +23,8 @@
 
 ###
 
+<h2> About Me</h2>
+
 <p align="left">- 🔭 Aspiring game developer
   <br>- 📚 Mainly focusing on game programming
   <br>- ⚡ Pixel art and 3D modelling hobbyist (only when necessary)
