@@ -1,6 +1,6 @@
 
 <h1 align="left">Hello, World! 👋</h1>
-<h3 align="left">👩‍💻  I'm Richter Cheniago, game programmer specializing in Unity</h3>
+<h3 align="left">👩‍💻  I'm Richter Cheniago</h3>
 
 ###
 
