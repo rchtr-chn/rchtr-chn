@@ -1,6 +1,10 @@
+
+<h1 align="left">Hello, World! 👋</h1>
+<h3 align="left">👩‍💻  I'm Richter Cheniago, game programmer specializing in Unity</h3>
+
 ###
 
-<h1>Projects I Worked On</h1>
+<h2>Projects I Worked On</h2>
 
 
 | Rat Gambler | Overcoded |
@@ -19,9 +23,6 @@
 
 ###
 
-<h1 align="left">Hello, World! 👋</h1>
-
-<h3 align="left">👩‍💻  I'm Richter Cheniago</h3>
 <p align="left">- 🔭 Aspiring game developer
   <br>- 📚 Mainly focusing on game programming
   <br>- ⚡ Pixel art and 3D modelling hobbyist (only when necessary)
@@ -29,7 +30,7 @@
 
 ###
 
-<h1 align="left">Languages and Tools:</h1>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="blender" width="40" height="40"/> </a> 
   <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://www.rw-designer.com/icon-image/22556-64x64x4.png" alt="aseprite" width="40" height="40"/> </a> 
@@ -41,7 +42,7 @@
 
 ###
 
-<h1 align="left">Connect with me:</h1>
+<h2 align="left">Connect with me:</h2>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Richter_Cheniago-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/richter-cheniago-42b1b828a/) <br/>
 [![Instagram](https://img.shields.io/badge/rchtr.chn-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rchtr.chn/) <br/>
