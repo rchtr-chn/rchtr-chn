@@ -1,17 +1,6 @@
-<h1 align="left">Hello, World! 👋</h1>
-
 ###
 
-<h3 align="left">👩‍💻  I'm Richter Cheniago</h3>
-<p align="left">- 🔭 Aspiring game developer
-  <br>- 📚 Mainly focusing on game programming
-  <br>- ⚡ Pixel art and 3D modelling hobbyist (only when necessary)
-</p>
-
-
-###
-
-<h1>Projects</h1>
+<h1>Projects I Worked On</h1>
 
 
 | Rat Gambler | Overcoded |
@@ -20,7 +9,6 @@
 | A risky card game where the player wagers cookies against the rat mafia, pushing their luck to climb out of debt. The more they bet, the greater the risk—and the bigger the payoff. To survive, players must invest in powerful cards, build a stronger deck, and carefully plan each move as the tension rises with every hand. | You play as a stressed and sleep-deprived developer racing to fix bugs before your game collapses. Eyes locked on the screen and fingers flying across the keys, every second counts. But as you patch one problem, more begin to surface—errors haunting the player like ghosts, piling on pressure the longer they endure. Will you outlast the code or be consumed by it?|
 | [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://rchtr-chn.itch.io/rat-gambler) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Rat-Gambler) | [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://rchtr-chn.itch.io/overcoded) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Overcoded) |
 
-
 ###
 
 | MulungPreneur | Lies In The Unknown |
@@ -28,6 +16,16 @@
 | <img src="https://github.com/wi1wil/MulungPreneur/raw/main/mulung1.gif" alt="mulungpreneur-preview" /> | <img src="https://github.com/rchtr-chn/Lies-in-The-Unknown/raw/main/gif-1.gif" alt="lies-in-the-unknown-preview" /> |
 | An educational game where you play as a homeless man trying to survive by picking up trash and helping your neighbors. What starts as small acts of kindness grows into something bigger, as you recycle waste, earn trust, and slowly build a thriving trash-based empire. Manage resources, upgrade your tools, and prove that even the discarded can become the foundation for a better life. | A 2D side-scrolling, narrative-driven game that dives deep into psychological horror. You follow a fragile main character as they struggle with haunting visions and disturbing truths. Each step uncovers new mysteries, blurring the line between reality and nightmare. Confront the shadows of the mind in a story where fear and truth are tightly entwined. |
 | [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://wi1wil.itch.io/mulungpreneur) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/wi1wil/MulungPreneur) | [![Game Page](https://img.shields.io/badge/play_game-fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://rchtr-chn.itch.io/lies-in-the-unknown) [![Read More](https://img.shields.io/badge/📖_read_more-FFA500.svg?style=for-the-badge&logo=https://www.iconsdb.com/icons/preview/white/literature-xxl.png)](https://github.com/rchtr-chn/Lies-In-The-Unknown)
+
+###
+
+<h1 align="left">Hello, World! 👋</h1>
+
+<h3 align="left">👩‍💻  I'm Richter Cheniago</h3>
+<p align="left">- 🔭 Aspiring game developer
+  <br>- 📚 Mainly focusing on game programming
+  <br>- ⚡ Pixel art and 3D modelling hobbyist (only when necessary)
+</p>
 
 ###
 
