@@ -1,6 +1,6 @@
 
 <h1 align="left">Hello, World! 👋</h1>
-<h3 align="left">👩‍💻  I'm Richter Cheniago, Game Application & Technology undergraduate at BINUS University. I specialize in Unity game programming, currently taking interest in 3D game programming and modeling </h3>
+<h3 align="left">👩‍💻  I'm Richter Cheniago, Game Application & Technology undergraduate at BINUS University. I specialize in Unity game programming, currently taking interest in 3D game development </h3>
 
 ###
 
