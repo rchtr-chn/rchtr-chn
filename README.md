@@ -27,7 +27,7 @@
 
 <p align="left">- 🔭 Aspiring game developer
   <br>- 📚 Mainly focusing on game programming
-  <br>- ⚡ Pixel art and 3D modelling hobbyist (only when necessary)
+  <br>- ⚡ Pixel art and 3D modelling hobbyist
 </p>
 
 ###
