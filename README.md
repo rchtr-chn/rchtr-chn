@@ -9,7 +9,7 @@
 
 | [Rat Gambler](https://rchtr-chn.itch.io/rat-gambler) | [Overcoded](https://rchtr-chn.itch.io/overcoded) |
 | :-----------: | :---------: |
-|  <img width=100% src="https://github.com/rchtr-chn/Rat-Gambler/raw/main/readme-gifs/gif-1.gif" alt="rat-gambler-preview" /> | <img width=100% src="https://github.com/rchtr-chn/Overcoded/raw/main/readme-gifs/gif-1.gif" alt="overcoded-preview" /> |
+|  <img width=100% src="https://github.com/rchtr-chn/Rat-Gambler/raw/main/readme-gifs/gif-2.gif" alt="rat-gambler-preview" /> | <img width=100% src="https://github.com/rchtr-chn/Overcoded/raw/main/readme-gifs/gif-1.gif" alt="overcoded-preview" /> |
 | A turn-based deck-building game where players wager cookies against the rat mafia. | An endless runner-style game where a stressed developer races to fix bugs before the code collapses. |
 |  Implemented core systems: card mechanics, turn-based logic, shop, and level selection. Built supporting systems to handle gameplay flow and balancing. | Implemented main endless runner mechanic along with multiple minigames such as Code typing, Pop-up virus ads, Cellphone notifications. Built supporting systems to ensure smooth gameplay flow and challenge escalation. |
 | Hours worked: ~30 hours  | Hours worked: ~30 hours  |
