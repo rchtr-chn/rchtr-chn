@@ -19,7 +19,7 @@
 
 | [MulungPreneur](https://wi1wil.itch.io/mulungpreneur) | [Lies In The Unknown](https://rchtr-chn.itch.io/lies-in-the-unknown) |
 | :-----------: | :-----------------: |
-| <img src="https://github.com/wi1wil/MulungPreneur/raw/main/Assets/ReadMe/mulung1.gif" alt="mulungpreneur-preview" /> | <img src="https://github.com/rchtr-chn/Lies-in-The-Unknown/raw/main/readme-gifs/gif-1.gif" alt="lies-in-the-unknown-preview" /> |
+| <img src="https://github.com/wi1wil/MulungPreneur/raw/main/Assets/ReadMe/mulung1.gif" alt="mulungpreneur-preview" /> | <img src="https://github.com/rchtr-chn/Lies-in-The-Unknown/raw/main/readme-gifs/gif-3.gif" alt="lies-in-the-unknown-preview" /> |
 | An educational resource-management game where a homeless man survives and grows by collecting trash and helping neighbors. | A 2D narrative-driven side-scroller exploring psychological horror and blurred realities. |
 |  Added key programming features: Item trading system, Dual-grid tilemap system, Settings menu. Created in-game items and tilemap art assets. | Implemented core systems: Player movement and shooting, Enemy AI with state machine, Scene management. Built gameplay framework to ensure story progression and mechanics integration. |
 | Hours worked: ~48 hours | Hours worked: ~10 hours |
