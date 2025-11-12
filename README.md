@@ -53,5 +53,5 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Richter_Cheniago-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/richter-cheniago-42b1b828a/) <br/>
 [![Instagram](https://img.shields.io/badge/rchtr.chn-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rchtr.chn/) <br/>
 [![Itch.io](https://img.shields.io/badge/rchtr--chn-fa5c5c.svg?logo=itch.io&logoColor=white)](https://rchtr-chn.itch.io/) <br/>
-[![CV](https://img.shields.io/badge/📄 CV-0096c7.svg?logo=https://www.iconsdb.com/icons/preview/white/text-file-3-xxl.png)](https://drive.google.com/file/d/1856Wdvq8dG38w2QzjMYNzIs7UAoK2fnI/view?usp=sharing) <br/>
+[![CV](https://img.shields.io/badge/📄_CV-0096c7.svg?logo=https://www.iconsdb.com/icons/preview/white/text-file-3-xxl.png)](https://drive.google.com/file/d/1856Wdvq8dG38w2QzjMYNzIs7UAoK2fnI/view?usp=sharing) <br/>
 </p>
