@@ -9,7 +9,7 @@
 
 | [Rat Gambler](https://rchtr-chn.itch.io/rat-gambler) | [Cozy Kettle](https://rchtr-chn.itch.io/cozy-kettle) |
 | :-----------: | :---------: |
-|  <img width=100% src="https://github.com/rchtr-chn/Rat-Gambler/raw/main/gifs/gif-2.gif" alt="rat-gambler-preview" /> | <img width=100% src="https://github.com/rchtr-chn/CozyKettle/raw/main/readme-bank/Cover-Image.png" alt="overcoded-preview" /> |
+|  <img width=100% src="https://github.com/rchtr-chn/Rat-Gambler/raw/main/gifs/gif-2.gif" alt="rat-gambler-preview" /> | <img width=100% src="https://github.com/rchtr-chn/CozyKettle/raw/main/readme-bank/cozykettle-gif-2.gif" alt="overcoded-preview" /> |
 | A turn-based deck-building game where players wager cookies against the rat mafia. | A cozy tea shop simulator where player manages their tea shop from serving customers to inventory management while also brew the best beverages of all time. |
 |  Implemented core systems: card mechanics, turn-based logic, shop, and level selection. Built supporting systems to handle gameplay flow and balancing. | Implemented brewing mechanic, inventory and shop system, cafe customer and time system. Built supporting systems to handle cutscenes and gameplay flow |
 | Hours worked: ~30 hours  | Hours worked: ~60 hours  |
